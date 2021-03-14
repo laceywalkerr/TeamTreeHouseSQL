@@ -7,3 +7,11 @@ Each of these databases can be read or queried using the SQL programming languag
 
 Other types of databases (aka NoSQL Databases) that use more specialized methods include:
 MongoDB, CouchBase, and Redis.
+
+*Several Common Data Types*
+Text:
+Store names and descriptions
+Numeric:
+Store prices, ages and quantities
+Date:
+Store temporal information (e.g. dates and times)
