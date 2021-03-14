@@ -1,0 +1,9 @@
+SQL = Structured Query Language
+Query = Reading data from a database
+
+There are many databases that understand SQL!
+MySQL, ProgreSQL, Microsoft SQL, Oracle, and SQLite.
+Each of these databases can be read or queried using the SQL programming language.
+
+Other types of databases (aka NoSQL Databases) that use more specialized methods include:
+MongoDB, CouchBase, and Redis.
