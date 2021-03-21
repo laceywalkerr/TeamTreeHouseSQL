@@ -44,6 +44,8 @@ Date
 A data type is the type of information stored in a particular column.
 
 Lines of SQL code are known as a Statement or a Query.
+A Statement is like a sentence.
+A Query is like a question.
 
 ***** Definitions ******
 Keywords: The vocabulary words of a programming language. They are commands issues to a computer.
