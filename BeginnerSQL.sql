@@ -13,3 +13,7 @@ FROM clients;
 -- to SELECT two columns from the database in one Query, you may change the order of the columns as well by this --
 SELECT first_name, email
 FROM clients;
+
+-- over all example: --
+-- SELECT <column names>
+-- FROM <table name>;
