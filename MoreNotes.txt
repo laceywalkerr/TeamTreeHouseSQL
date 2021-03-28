@@ -1,0 +1,1 @@
+There are five types of SQL commands: DDL, DML, DCL, TCL, and DQL.
