@@ -4,3 +4,9 @@ Data Manipulation Language.
 Data Control Language. 
 Transaction Control Language. 
 Data Query Language.
+
+
+SQL commands are instructions. It is used to communicate with the database. It is also used to perform specific tasks, functions, and queries of data.
+SQL can perform various tasks like create a table, add data to tables, drop the table, modify the table, set permission for users.
+Types of SQL Commands:
+There are five types of SQL commands: DDL, DML, DCL, TCL, and DQL.
