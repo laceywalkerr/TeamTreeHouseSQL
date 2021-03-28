@@ -3,3 +3,4 @@ Data Definition Language (DDL) DDL changes the structure of the table like creat
 Data Manipulation Language. 
 Data Control Language. 
 Transaction Control Language. 
+Data Query Language.
