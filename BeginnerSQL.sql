@@ -41,3 +41,4 @@ FROM phone_book;
 -- Imagine a user is typing someone's last name in a search facility on the phone. As the user types, suggestions will appear on the screen. Bring back both the first name and last name for every person in the phone book. The phone will filter the appropriate suggestions.
 SELECT first_name, last_name
 FROM phone_book;
+
