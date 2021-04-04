@@ -1,0 +1,1 @@
+SQL, or structured query language, is the most common language for extracting and organizing data that is stored in a relational database (tables that consist of rows and columns). It is a specific declarative programming language: queries use names such as SELECT or LIMIT that encapsulate a set of logic.
