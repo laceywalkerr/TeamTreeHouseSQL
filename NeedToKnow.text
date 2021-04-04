@@ -1,7 +1,21 @@
-SQL, or structured query language, is the most common language for extracting and organizing data that is stored in a relational database (tables that consist of rows and columns). It is a specific declarative programming language: queries use names such as SELECT or LIMIT that encapsulate a set of logic.
+SQL, or structured query language, is the most common language for extracting and organizing 
+data that is stored in a relational database (tables that consist of rows and columns). It is a 
+specific declarative programming language: queries use names such as SELECT or LIMIT that encapsulate 
+a set of logic.
 
-SQL is written to be a query language—it’s meant to be an intuitive way to access data. What it sacrifices in terms of pure functionality, it gains in terms of making data queries accessible. This is why many projects still use SQL and its associated frameworks (such as MySQL) as their data storage and querying solution.
+SQL is written to be a query language—it’s meant to be an intuitive way to access data. 
+What it sacrifices in terms of pure functionality, it gains in terms of making data queries accessible. 
+This is why many projects still use SQL and its associated frameworks (such as MySQL) as their data storage 
+and querying solution.
 
-A critical skill to leave with is the ability to interface with multiple SQL tables. You won’t be able to get much done with complex databases without the ability to manipulate JOIN queries with precision. As an example, the tables above are related in such a way that data about actors and movies is placed separately: in order to process any data that involves their union (e.g. which actors appeared in which movies?), you’ll need to master JOINs.
+A critical skill to leave with is the ability to interface with multiple SQL tables. 
+You won’t be able to get much done with complex databases without the ability to manipulate 
+JOIN queries with precision. As an example, the tables above are related in such a way that data 
+about actors and movies is placed separately: in order to process any data that involves their union 
+(e.g. which actors appeared in which movies?), you’ll need to master JOINs.
 
-Another resource that might be more beginner-friendly in terms of placing people directly in a production environment is Codecademy’s Node.js and SQLite course. If you take the previous courses, you’ll get greater context on the back end of any particular system, and you’ll be able to interact with SQL in a way that is more natural than just blankly querying it. You’ll be able to structure tables of your own and think through how to process data not only for yourself but for others.
+Another resource that might be more beginner-friendly in terms of placing people directly in 
+a production environment is Codecademy’s Node.js and SQLite course. If you take the previous courses, 
+you’ll get greater context on the back end of any particular system, and you’ll be able to interact with 
+SQL in a way that is more natural than just blankly querying it. You’ll be able to structure tables of your 
+own and think through how to process data not only for yourself but for others.
