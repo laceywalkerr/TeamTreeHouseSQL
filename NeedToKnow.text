@@ -1,1 +1,3 @@
 SQL, or structured query language, is the most common language for extracting and organizing data that is stored in a relational database (tables that consist of rows and columns). It is a specific declarative programming language: queries use names such as SELECT or LIMIT that encapsulate a set of logic.
+
+SQL is written to be a query language—it’s meant to be an intuitive way to access data. What it sacrifices in terms of pure functionality, it gains in terms of making data queries accessible. This is why many projects still use SQL and its associated frameworks (such as MySQL) as their data storage and querying solution.
